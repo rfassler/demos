@@ -1,11 +1,19 @@
 {
   "name": "expresstest",
   "version": "1.0.0",
+<<<<<<< HEAD
   "description": "My test project",
   "main": "index.js",
   "scripts": {
 	"dosth": "dir",
     "test": "echo \"Error: no test specified\" && exit 1"
+=======
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kuku": "dir"
+>>>>>>> b0865be18a613c8ba6e00b3e3504c1c9341b9083
   },
   "author": "",
   "license": "ISC",

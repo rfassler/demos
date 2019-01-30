@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  </head>
+  <body>
+
+  	<h1><%= persons[0].name %> <%= persons[0].age %></h1>
+
+  	<hr />
+  	<% persons.forEach(function(person){ %>
+		<h1><%= person.name %> <%= person.age %></h1>
+  	<% }); %>
+
+  </body>
+</html>
